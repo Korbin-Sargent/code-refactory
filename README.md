@@ -18,4 +18,6 @@ Below is a guide of what changes were made to these files. As a beginner develop
 
 7. Code checked for functionality and verified links were working
 
-8. Updated and completed
+8. id added to search-engine-optimization link
+
+9. Updated and completed
